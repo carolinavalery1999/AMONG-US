@@ -1,0 +1,2 @@
+D:\JUEGO-EXAM\Among us\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\JUEGO-EXAM\Among us\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
